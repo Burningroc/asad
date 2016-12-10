@@ -14,6 +14,6 @@ else return -num;
 }
 
 int main() {
-	printf("Hello world!");
-	return 0;	
+	
+	printf("sadsadeifuhwiuwhih");
 }؛
